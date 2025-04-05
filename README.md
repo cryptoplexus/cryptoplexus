@@ -37,7 +37,8 @@
 </head>
 <body>
     <h1>Cryptoplexus.com</h1>
-    <p>compassion for the schizoid mind in a tech dystopia</p>
+    <p>compassion for the schizoid mind of a tech dystopia</p>
     <div class="contact">Contact: <a href="mailto:cryptoplexus@proton.me" style="color: #00FF00; text-decoration: none;">cryptoplexus@proton.me</a></div>
 </body>
 </html>
+
